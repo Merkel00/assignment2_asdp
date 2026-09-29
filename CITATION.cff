@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Industrial Defect Detection Evaluation Tool"
+authors:
+  - family-names: "<YOUR LAST NAME>"
+    given-names: "<YOUR FIRST NAME>"
+    orcid: ""
+    affiliation: ""
+version: 0.1.0
+date-released: 2026-09-29
+message: |
+  This is a minimal citation file for an academic software artifact. Replace author
+  and affiliation fields with your own details before submission.
+keywords:
+  - defect detection
+  - evaluation
+  - YOLOv8
+  - LSTM
+  - explainable AI
+license: MIT
